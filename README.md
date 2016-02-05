@@ -7,7 +7,7 @@ Simple Go benchmark for testing
 3957809
        1        46423520800 ns/op
 
-# RPi 2 @ 1Ghz
+# RPi 2 @ 1Ghz - Debian ARMHF
 3957809
        1        1102586688354 ns/op
 
